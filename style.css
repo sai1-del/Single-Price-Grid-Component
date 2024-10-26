@@ -61,11 +61,12 @@ body{
 .signup{
     background-color: var(--Bright-Yellow);
     height:1;
-    padding:1rem 5.5rem;
+    padding:1rem 5rem;
     text-decoration: none;  
     border-radius:0.5rem;
     color:#F7F9BC;
     font-size:18px;
+    width:100%;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .sub_section1 p{
